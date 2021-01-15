@@ -10,13 +10,15 @@
 
 ### Before you import psutil you need to install it:
 
- ```pip3 install psutil```
+  ```python 
+ pip3 install psutil
+ ```
  
 
 ### We also need to import additional modules for date and system information:
 
-```import psutil```
-
-```import platform```
-
-```from datetime import datetime```
+```python
+import psutil
+import platform
+from datetime import datetime
+```
