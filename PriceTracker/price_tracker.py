@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import smtplib
+import time
 
 URL = ' {URL of your Product} '
 
@@ -54,4 +55,6 @@ def send_mail():
 
     server.quit()
 
-check_price()
+while (True):
+    check_price()
+    time.sleep(60*60)
