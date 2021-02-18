@@ -8,6 +8,6 @@ _PythonIdeas_ repo consits of many **Python** ideas and projects from begineer l
 ## **List of Projects :**
 
  1. *Hardware and System Information using psutil library*
- 2. *Coming Soon!!*
+ 2. *Price Tracker of any site using requests, Beautiful Soup and smtplib*
 
  ## [Contribution Are Welcome!](https://github.com/Somanyu/PythonIdeas)
